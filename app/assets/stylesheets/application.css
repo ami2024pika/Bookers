@@ -24,6 +24,30 @@ body {
   margin: 30px;
 }
 
+h1, h2 {
+  margin: 15px 0;
+}
+
 label {
   display: block;
+}
+
+.form_group {
+  margin-bottom: 10px;
+}
+
+.book_body, .book_title {
+  padding: 2px;
+}
+
+.submit_btn {
+  padding: 1px 6px;
+}
+
+td {
+  padding: 0 5px 7px 5px;
+}
+
+.show {
+  margin: 30px;
 }
