@@ -71,3 +71,7 @@ td {
   margin: 30px;
   padding-left: 30px;
 }
+
+.flash-message {
+  color: green;
+}
