@@ -22,6 +22,7 @@
 
 body {
   margin: 30px;
+  font-size: 13px;
 }
 
 h1, h2 {
@@ -80,7 +81,11 @@ td {
   color: green;
 }
 
-.hover-link:hover {
+.link_style:visited {
+  color: #666;
+}
+
+.link_style:hover {
   background-color: black;
   color: white;
 }
