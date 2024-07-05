@@ -79,3 +79,8 @@ td {
 .flash-message {
   color: green;
 }
+
+.hover-link:hover {
+  background-color: black;
+  color: white;
+}
